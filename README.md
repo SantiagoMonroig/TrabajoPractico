@@ -1,5 +1,5 @@
-# Phaser 3 Template
+# Primer Trabajo Practico - Phaser
+Objetivo del trabajo: Buscar plasmar en resultados tangibles, las propuestas teóricas. Introducir al alumno en el framework Phaser 3.
+Módulo/Consigna: Propuesta 1
 
-Plantilla para iniciar nuevos proyectos con PHASER 3.
 
-Contiene configuración inicial y buenas prácticas de estructuras de carpetas.
